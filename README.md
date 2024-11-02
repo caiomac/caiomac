@@ -7,7 +7,7 @@
 - <b>Incident response</b>
   - [Setting up SIEM in Azure](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Linux and SQL</b>
-  - [Managing file permissions in Linux](https://github.com/caiomac/Managing-file-permissions-in-Linux/blob/main/README.md)
+  - [OK - Managing file permissions in Linux](https://github.com/caiomac/Managing-file-permissions-in-Linux/blob/main/README.md)
   - [Applying filters with SQL queries](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Automation</b>
   - [Creating a File Integrity Monitor](https://github.com/joshmadakor1/Algorithms-Practice)
