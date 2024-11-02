@@ -8,7 +8,7 @@
   - [Setting up SIEM in Azure](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Linux and SQL</b>
   - [OK - Managing file permissions in Linux](https://github.com/caiomac/Managing-file-permissions-in-Linux/blob/main/README.md)
-  - [Applying filters with SQL queries](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [OK - Applying filters with SQL queries](https://github.com/caiomac/Applying-filters-with-SQL-queries/blob/main/README.md)
 - <b>Automation</b>
   - [Creating a File Integrity Monitor](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Vulnerability Analysis</b>
