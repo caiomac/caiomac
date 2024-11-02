@@ -19,7 +19,7 @@
   - [Building REST API](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Documentation</b>
   - [OK - Security audit on Botium Toys(fake enterprise)](https://github.com/caiomac/Security-Audit-on-Botium-toys/blob/main/README.md)
-  - [Vulnerability Assessment report](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [OK - Vulnerability Assessment report](https://github.com/caiomac/Vulnerability-assessment-report)
   - [Incident handler's journal](https://github.com/joshmadakor1/Algorithms-Practice)
     
 <h2>🎖️ Certifications</h2>
