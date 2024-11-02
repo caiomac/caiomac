@@ -11,14 +11,16 @@
   - [Applying filters with SQL queries](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Automation</b>
   - [Creating a File Integrity Monitor](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Malware Analysis</b>
-  - [Project1](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Vulnerability Analysis</b>
   - [Creating a Vulnerability Management Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Malware Analysis</b>
+  - [Project1](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Web application security</b>
   - [Building REST API](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Documentation</b>
-  - [Project1](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Security audit on Botium Toys](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Vulnerability Assessment report](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Incident handler's journal](https://github.com/joshmadakor1/Algorithms-Practice)
     
 <h2>🎖️ Certifications</h2>
 
