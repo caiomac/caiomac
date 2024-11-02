@@ -3,15 +3,20 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Networks and Network Security</b>
-  - [Project1](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Setting up Active Directory in Azure](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Incident response</b>
-  - [Project1](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Setting up SIEM in Azure](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Linux and SQL</b>
-  - [Project1](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Managing file permissions in Linux](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Applying filters with SQL queries](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Automation</b>
-  - [Project1](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Creating a File Integrity Monitor](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Malware Analysis</b>
   - [Project1](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Vulnerability Analysis</b>
+  - [Creating a Vulnerability Management Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Web application security</b>
+  - [Building REST API](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Documentation</b>
   - [Project1](https://github.com/joshmadakor1/Algorithms-Practice)
     
