@@ -7,8 +7,8 @@
 - <b>Incident response</b>
   - [Setting up SIEM in Azure](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Linux and SQL</b>
-  - [OK - Managing file permissions in Linux](https://github.com/caiomac/Managing-file-permissions-in-Linux/blob/main/README.md)
-  - [OK - Applying filters with SQL queries](https://github.com/caiomac/Applying-filters-with-SQL-queries/blob/main/README.md)
+  - [OK - Managing file permissions in Linux](https://github.com/caiomac/Managing-file-permissions-in-Linux)
+  - [OK - Applying filters with SQL queries](https://github.com/caiomac/Applying-filters-with-SQL-queries)
 - <b>Automation</b>
   - [Creating a File Integrity Monitor](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Vulnerability Analysis</b>
@@ -18,7 +18,7 @@
 - <b>Web application security</b>
   - [Building REST API](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Documentation</b>
-  - [OK - Security audit on Botium Toys(fake enterprise)](https://github.com/caiomac/Security-Audit-on-Botium-toys/blob/main/README.md)
+  - [OK - Security audit on Botium Toys(fake enterprise)](https://github.com/caiomac/Security-Audit-on-Botium-toys)
   - [OK - Vulnerability Assessment report](https://github.com/caiomac/Vulnerability-assessment-report)
   - [Incident handler's journal](https://github.com/joshmadakor1/Algorithms-Practice)
     
