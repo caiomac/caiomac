@@ -20,7 +20,7 @@
 - <b>Documentation</b>
   - [OK - Security audit on Botium Toys(fake enterprise)](https://github.com/caiomac/Security-Audit-on-Botium-toys)
   - [OK - Vulnerability Assessment report](https://github.com/caiomac/Vulnerability-assessment-report)
-  - [Incident handler's journal](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [OK - Incident handler's journal](https://github.com/caiomac/Incident-handler-s-journal)
     
 <h2>🎖️ Certifications</h2>
 
