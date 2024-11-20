@@ -3,9 +3,9 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Networks and Network Security</b>
-  - [Setting up Active Directory in Azure](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [OK - Active Directory Creation](https://github.com/caiomac/Active-Directory-Creation-Home-Lab)
 - <b>Incident response</b>
-  - [Setting up SIEM in Azure](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [OK - Elastic SIEM Setup and Monitoring](https://github.com/caiomac/Elastic-Cloud-SIEM/blob/main/README.md)
 - <b>Linux and SQL</b>
   - [OK - Managing file permissions in Linux](https://github.com/caiomac/Managing-file-permissions-in-Linux)
   - [OK - Applying filters with SQL queries](https://github.com/caiomac/Applying-filters-with-SQL-queries)
