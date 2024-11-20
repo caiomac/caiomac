@@ -11,7 +11,7 @@
   - [OK - Applying filters with SQL queries](https://github.com/caiomac/Applying-filters-with-SQL-queries)
 - <b>Automation</b>
   - [Creating a File Integrity Monitor](https://github.com/joshmadakor1/Algorithms-Practice)
-    https://medium.com/@sebastienwebdev/file-integrity-monitor-in-python-a-beginners-guide-fedefc9d9284
+    https://www.youtube.com/watch?v=WJODYmk4ys8
 - <b>Vulnerability Analysis</b>
   - [Creating a Vulnerability Management Lab](https://github.com/joshmadakor1/Algorithms-Practice)
     https://medium.com/@j.andrew.hillary/nessus-vulnerability-management-lab-for-beginners-56dd9e0265d3
