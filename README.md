@@ -11,12 +11,16 @@
   - [OK - Applying filters with SQL queries](https://github.com/caiomac/Applying-filters-with-SQL-queries)
 - <b>Automation</b>
   - [Creating a File Integrity Monitor](https://github.com/joshmadakor1/Algorithms-Practice)
+    https://medium.com/@sebastienwebdev/file-integrity-monitor-in-python-a-beginners-guide-fedefc9d9284
 - <b>Vulnerability Analysis</b>
   - [Creating a Vulnerability Management Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+    https://medium.com/@j.andrew.hillary/nessus-vulnerability-management-lab-for-beginners-56dd9e0265d3
 - <b>Malware Analysis</b>
   - [Project1](https://github.com/joshmadakor1/Algorithms-Practice)
+    https://medium.com/@mohitrdamke/malware-analysis-build-lab-by-mohit-damke-2c7be29f2c34
 - <b>Web application security</b>
-  - [Building REST API](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Web application security](https://github.com/joshmadakor1/Algorithms-Practice)
+    https://tryhackme.com/r/room/introwebapplicationsecurity
 - <b>Documentation</b>
   - [OK - Security audit on Botium Toys(fake enterprise)](https://github.com/caiomac/Security-Audit-on-Botium-toys)
   - [OK - Vulnerability Assessment report](https://github.com/caiomac/Vulnerability-assessment-report)
