@@ -14,7 +14,7 @@
     https://www.youtube.com/watch?v=WJODYmk4ys8
 - <b>Vulnerability Analysis</b>
   - [Creating a Vulnerability Management Lab](https://github.com/joshmadakor1/Algorithms-Practice)
-    https://medium.com/@j.andrew.hillary/nessus-vulnerability-management-lab-for-beginners-56dd9e0265d3
+   https://www.youtube.com/watch?v=lT6Px9zJM3s
 - <b>Malware Analysis</b>
   - [Project1](https://github.com/joshmadakor1/Algorithms-Practice)
     https://medium.com/@mohitrdamke/malware-analysis-build-lab-by-mohit-damke-2c7be29f2c34
