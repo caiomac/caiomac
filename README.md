@@ -3,28 +3,26 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Networks and Network Security</b>
-  - [OK - Active Directory Creation](https://github.com/caiomac/Active-Directory-Creation-Home-Lab)
+  - [Active Directory Creation](https://github.com/caiomac/Active-Directory-Creation-Home-Lab)
 - <b>Incident response</b>
-  - [OK - Elastic SIEM Setup and Monitoring](https://github.com/caiomac/Elastic-Cloud-SIEM/blob/main/README.md)
+  - [Elastic SIEM Setup and Monitoring](https://github.com/caiomac/Elastic-Cloud-SIEM/blob/main/README.md)
 - <b>Linux and SQL</b>
-  - [OK - Managing file permissions in Linux](https://github.com/caiomac/Managing-file-permissions-in-Linux)
-  - [OK - Applying filters with SQL queries](https://github.com/caiomac/Applying-filters-with-SQL-queries)
+  - [Managing file permissions in Linux](https://github.com/caiomac/Managing-file-permissions-in-Linux)
+  - [Applying filters with SQL queries](https://github.com/caiomac/Applying-filters-with-SQL-queries)
 - <b>Automation</b>
-  - [Creating a File Integrity Monitor](https://github.com/joshmadakor1/Algorithms-Practice)
-    https://www.youtube.com/watch?v=WJODYmk4ys8
+  - [Creating a File Integrity Monitoring (FIM) script](https://github.com/caiomac/Simple-FIM-through-Powershell/blob/main/README.md)
 - <b>Vulnerability Analysis</b>
-  - [Creating a Vulnerability Management Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [In progress - Creating a Vulnerability Management Lab](https://github.com/joshmadakor1/Algorithms-Practice)
    https://www.youtube.com/watch?v=lT6Px9zJM3s
 - <b>Malware Analysis</b>
-  - [Project1](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Will be done](https://github.com/joshmadakor1/Algorithms-Practice)
     https://medium.com/@mohitrdamke/malware-analysis-build-lab-by-mohit-damke-2c7be29f2c34
 - <b>Web application security</b>
-  - [Web application security](https://github.com/joshmadakor1/Algorithms-Practice)
-    https://tryhackme.com/r/room/introwebapplicationsecurity
+  - [Will be done - Web application security](https://tryhackme.com/r/room/introwebapplicationsecurity)
 - <b>Documentation</b>
-  - [OK - Security audit on Botium Toys(fake enterprise)](https://github.com/caiomac/Security-Audit-on-Botium-toys)
-  - [OK - Vulnerability Assessment report](https://github.com/caiomac/Vulnerability-assessment-report)
-  - [OK - Incident handler's journal](https://github.com/caiomac/Incident-handler-s-journal)
+  - [Security audit on Botium Toys(fake enterprise)](https://github.com/caiomac/Security-Audit-on-Botium-toys)
+  - [Vulnerability Assessment report](https://github.com/caiomac/Vulnerability-assessment-report)
+  - [Incident handler's journal](https://github.com/caiomac/Incident-handler-s-journal)
     
 <h2>🎖️ Certifications</h2>
 
