@@ -32,7 +32,7 @@
 - [Agile Scrum Foundations](https://drive.google.com/file/d/1MMqVppJIRGpW4R_Lg1RWhgw48Dglk9kh/view?usp=drivesdk)
 - [SDI Service Desk Analyst](https://drive.google.com/file/d/1BOZIiQcT_uu9S8Emhp0RX4SUMCjgbRSS/view?usp=drivesdk)
 
-<h2> 🤳 Connect with me on linkedin:</h2>
+<h2> 🤳 See my linkedin:</h2>
 
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
